@@ -51,7 +51,7 @@ Windows：
 "...\chrome.exe" --remote-debugging-port=9222
 ```
 
-2. Join a Gimkit game，点击 **Start Game**。Ensure that `curl http://127.0.0.1:9222/json/list` returns a list containing the tab.
+2. Join a Gimkit game. Ensure that `curl http://127.0.0.1:9222/json/list` returns a list containing the tab.
 
 3. Run script：
 
