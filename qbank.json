@@ -1,0 +1,302 @@
+{
+ "4d0e260cb19db344": {
+  "q": "In an experiment, what is the term for the group that does not receive the treatment or manipulation?",
+  "opts": [
+   "Control group",
+   "Experimental group",
+   "Focus group",
+   "Treatment group"
+  ],
+  "a": "Control group"
+ },
+ "95abb325c977d5b8": {
+  "q": "An investigator varies the amount of caffeine administered to four groups (0mg, 50mg, 100mg, 200mg) to observe changes in reaction speed. What is caffeine dosage?",
+  "opts": [
+   "Confounding variable",
+   "Dependent variable",
+   "Independent variable",
+   "Operational control"
+  ],
+  "a": "Independent variable"
+ },
+ "0e6a88175f6d3173": {
+  "q": "Which research method involves a detailed examination of a single subject or group over time?",
+  "opts": [
+   "Case Study",
+   "Correlational study",
+   "Experiment",
+   "Focus group"
+  ],
+  "a": "Case Study"
+ },
+ "c96b7415949c19f1": {
+  "q": "Before testing a new therapy, Dr. Lee states: \"Patients receiving 50mg of the drug daily will score lower on anxiety inventories than those receiving a placebo.\" What did Dr. Lee formulate?",
+  "opts": [
+   "Confounding variable",
+   "Hypothesis",
+   "Operational definition",
+   "Random assignment"
+  ],
+  "a": "Hypothesis"
+ },
+ "f288ee3c3137e05d": {
+  "q": "What is a primary advantage of using interviews in qualitative research?",
+  "opts": [
+   "They allow for in-depth exploration of participants' thoughts and experiences.",
+   "They are useful for observing non-verbal behavior.",
+   "They can be easily replicated.",
+   "They provide large amounts of data quickly."
+  ],
+  "a": "They allow for in-depth exploration of participants' thoughts and experiences."
+ },
+ "2bf95a92d903376a": {
+  "q": "In a trial for a headache medication, the control group receives an inactive starch pill that looks identical to the real pill. What is the starch pill?",
+  "opts": [
+   "Confounding variable",
+   "Independent variable",
+   "Operational control",
+   "Placebo"
+  ],
+  "a": "Placebo"
+ },
+ "5513b07e0e2e9a1e": {
+  "q": "What sampling procedure selects participants based primarily on their easy availability or proximity to the researcher?",
+  "opts": [
+   "Convenience sampling",
+   "Double-blind sampling",
+   "Random sampling",
+   "Representative sampling"
+  ],
+  "a": "Convenience sampling"
+ },
+ "4c065f3ce34d45b1": {
+  "q": "Which research method involves manipulating one variable to determine its effect on another variable?",
+  "opts": [
+   "Case Study",
+   "Experiment",
+   "Interview",
+   "Observation"
+  ],
+  "a": "Experiment"
+ },
+ "82945e3204deebcc": {
+  "q": "What experimental setup ensures that participants do not know whether they are in the experimental or control group, but the researcher does?",
+  "opts": [
+   "Double-blind",
+   "Meta-analysis",
+   "Naturalistic observation",
+   "Single-blind"
+  ],
+  "a": "Single-blind"
+ },
+ "5adb945ba29ab809": {
+  "q": "Which research method typically involves the researcher being an unobtrusive observer, recording what they see without direct interaction?",
+  "opts": [
+   "Correlational study",
+   "Experiment",
+   "Focus group",
+   "Observation"
+  ],
+  "a": "Observation"
+ },
+ "59c55f43a2d878bb": {
+  "q": "Dr. Aris conducts detailed clinical interviews, medical testing, and daily behavior logs on one patient with a rare brain injury over three years. What research design is this?",
+  "opts": [
+   "Case study",
+   "Experiment",
+   "Meta-analysis",
+   "Survey"
+  ],
+  "a": "Case study"
+ },
+ "fee3d5104dc8ec18": {
+  "q": "What is the subset of individuals drawn from a larger group who are actually selected to participate in a research study?",
+  "opts": [
+   "Cohort",
+   "Control group",
+   "Population",
+   "Sample"
+  ],
+  "a": "Sample"
+ },
+ "fa51b5880899d9a8": {
+  "q": "Participants rate their level of agreement on a numerical scale from 1 (Strongly Disagree) to 5 (Strongly Agree). What type of measurement is this?",
+  "opts": [
+   "Case study narrative",
+   "Qualitative measures",
+   "Quantitative measures",
+   "Structured interview"
+  ],
+  "a": "Quantitative measures"
+ },
+ "3fa3fa8271753803": {
+  "q": "To prevent subconscious cues, neither the patients nor the doctors administering the injections know which syringes contain the trial vaccine or saline. What procedure is this?",
+  "opts": [
+   "Case study",
+   "Correlational study",
+   "Double-blind",
+   "Single-blind"
+  ],
+  "a": "Double-blind"
+ },
+ "cd6c025d933382e7": {
+  "q": "What tendency causes survey respondents to answer questions in a manner that will be viewed favorably by others rather than truthfully?",
+  "opts": [
+   "Experimenter bias",
+   "Placebo effect",
+   "Sampling bias",
+   "Social desirability bias"
+  ],
+  "a": "Social desirability bias"
+ },
+ "760dc7478fa50693": {
+  "q": "What sampling method ensures that every single member of a population has an equal chance of being selected for participation?",
+  "opts": [
+   "Convenience sampling",
+   "Double-blind allocation",
+   "Random assignment",
+   "Random sampling"
+  ],
+  "a": "Random sampling"
+ },
+ "ffe6c38c9b0878fe": {
+  "q": "A researcher wants to understand the study habits of all undergraduate college students in the United States. What does this entire collection of students represent?",
+  "opts": [
+   "Experimental group",
+   "Focus group",
+   "Population",
+   "Sample"
+  ],
+  "a": "Population"
+ },
+ "c64e1dfb334d053e": {
+  "q": "A researcher compares high school attendance records with graduation rates to see if higher attendance is associated with higher graduation probability. What research design is used?",
+  "opts": [
+   "Case study",
+   "Correlation",
+   "Experiment",
+   "Single-blind study"
+  ],
+  "a": "Correlation"
+ },
+ "b044f3d9ba95c195": {
+  "q": "What is an unmeasured extraneous variable in an experiment that correlates with both the independent and dependent variables, clouding cause-and-effect conclusions?",
+  "opts": [
+   "Confounding variable",
+   "Dependent variable",
+   "Operational variable",
+   "Representative variable"
+  ],
+  "a": "Confounding variable"
+ },
+ "3308298c86ee4e7d": {
+  "q": "In an experiment, what is the outcome factor that is measured to assess the effect of the manipulated variable?",
+  "opts": [
+   "Confounding variable",
+   "Dependent variable",
+   "Independent variable",
+   "Placebo"
+  ],
+  "a": "Dependent variable"
+ },
+ "47de81a3086816ec": {
+  "q": "What property must a scientific prediction possess such that it is theoretically possible to collect empirical evidence that could prove it false?",
+  "opts": [
+   "Falsifiable",
+   "Generalizable",
+   "Operationalized",
+   "Qualifiable"
+  ],
+  "a": "Falsifiable"
+ },
+ "4669d5ccfa485bd8": {
+  "q": "A researcher flips a coin for each participant to decide whether they are placed in the drug condition or the sugar pill condition. What process is being executed?",
+  "opts": [
+   "Convenience sampling",
+   "Double-blind selection",
+   "Random assignment",
+   "Random sampling"
+  ],
+  "a": "Random assignment"
+ },
+ "9291883c672c9380": {
+  "q": "Which method is least likely to be influenced by the researcher’s biases?",
+  "opts": [
+   "Experiment",
+   "Focus group",
+   "Interview",
+   "Observation"
+  ],
+  "a": "Experiment"
+ },
+ "3751aac7b0e872f9": {
+  "q": "What is the precise, quantifiable description of how a variable is measured or manipulated in a specific study?",
+  "opts": [
+   "Falsifiable prediction",
+   "Hypothesis",
+   "Operational definition",
+   "Qualitative metric"
+  ],
+  "a": "Operational definition"
+ },
+ "6b894e2d648bf995": {
+  "q": "A psychologist gathers dataset results from 45 published studies on sleep deprivation to calculate an overall statistical effect size. What research design is this?",
+  "opts": [
+   "Case study",
+   "Correlation",
+   "Experiment",
+   "Meta-analysis"
+  ],
+  "a": "Meta-analysis"
+ },
+ "e61e47be9b7a405c": {
+  "q": "A study measures the number of words recalled from a list after participants sleep for either 4 or 8 hours. What is the number of words recalled?",
+  "opts": [
+   "Confounding variable",
+   "Dependent variable",
+   "Independent variable",
+   "Random sample"
+  ],
+  "a": "Dependent variable"
+ },
+ "d0ec5b952b0fa210": {
+  "q": "What psychometric rating scale presents respondents with statements and a fixed set of numbered agreement options (e.g., 1 to 5)?",
+  "opts": [
+   "Case studies",
+   "Likert scales",
+   "Qualitative measures",
+   "Structured interviews"
+  ],
+  "a": "Likert scales"
+ },
+ "6fc63ef9f3e05b23": {
+  "q": "Which research methodology describes observational, correlational, or descriptive approaches where variables are measured as they exist without intervention?",
+  "opts": [
+   "Controlled experiment",
+   "Double-blind experiment",
+   "Experimental methodology",
+   "Non-experimental methodology"
+  ],
+  "a": "Non-experimental methodology"
+ },
+ "de402a88c3b64113": {
+  "q": "Which research methodology is defined by manipulating at least one variable while holding all others constant to establish cause-and-effect relationships?",
+  "opts": [
+   "Correlational study",
+   "Experimental methodology",
+   "Meta-analysis",
+   "Non-experimental methodology"
+  ],
+  "a": "Non-experimental methodology"
+ },
+ "9a8ae65cf19155fa": {
+  "q": "A phone survey regarding internet access is conducted strictly using landline telephone numbers, excluding households with only cell phones. What issue does this create?",
+  "opts": [
+   "Experimenter bias",
+   "Placebo effect",
+   "Sampling bias",
+   "Social desirability bias"
+  ],
+  "a": "Sampling bias"
+ }
+}
